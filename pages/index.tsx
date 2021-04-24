@@ -9,7 +9,10 @@ const HomePage: FunctionComponent = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href='https://nextjs.org'>Structured Next.JS!</a>
+          Welcome to{' '}
+          <a href='https://maks112v.medium.com/how-to-structure-a-nextjs-project-a1d42b5cb141'>
+            Structured Next.JS!
+          </a>
         </h1>
 
         <p className={styles.description}>
@@ -18,7 +21,10 @@ const HomePage: FunctionComponent = () => {
         </p>
 
         <div className={styles.grid}>
-          <a href='https://nextjs.org/learn' className={styles.card}>
+          <a
+            href='https://maks112v.medium.com/how-to-structure-a-nextjs-project-a1d42b5cb141'
+            className={styles.card}
+          >
             <h3>Read More &rarr;</h3>
             <p>Read about how to use this template.</p>
           </a>
