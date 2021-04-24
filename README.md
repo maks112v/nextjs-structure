@@ -1,4 +1,4 @@
-**TLDR\***: If you just want to start clone the template and read the `README.md` files in each folder.\*
+**TLDR**: If you just want to start clone this template and read the `README.md` files in each folder.
 
 # What is this?
 
