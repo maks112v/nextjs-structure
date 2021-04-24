@@ -1,0 +1,1 @@
+Anything that references a wrapping context or outside service or api including firebase, mongodb, react context. Should typically be a wrapping component or an import. If it is a wrapping component it should have one capital export and have a file name ending in `.tsx` else have the name end in `.ts`
